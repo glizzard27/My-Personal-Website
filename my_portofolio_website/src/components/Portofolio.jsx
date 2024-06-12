@@ -14,7 +14,7 @@ const projects = [
         description: "Website Kopi Kenangan Sejiwa",
         links: {
             site: "#",
-            github: "#"
+            github: "https://github.com/glizzard27/kedai-kopi-kenangan-sejiwa.git"
         }
     },
     {
@@ -32,7 +32,7 @@ const projects = [
         description: "Aplikasi The Story App",
         links: {
             site: "#",
-            github: "#"
+            github: "https://github.com/glizzard27/The-Story-App.git"
         }
     },
     {
@@ -41,7 +41,7 @@ const projects = [
         description: "Aplikasi Github User",
         links: {
             site: "#",
-            github: "#"
+            github: "https://github.com/glizzard27/Github-User-App.git"
         }
     },
     {
@@ -50,7 +50,7 @@ const projects = [
         description: "Aplikasi Cryptopedia",
         links: {
             site: "#",
-            github: "#"
+            github: "https://github.com/glizzard27/Cryptopedia.git"
         }
     },
     {
@@ -58,7 +58,7 @@ const projects = [
         title: "Project #6",
         description: "Desain UI Website Tunggul Garageworks",
         links: {
-            site: "#",
+            site: "https://www.figma.com/design/ckZoERxCVwWnG8Be8OaclB/Tunggul-GarageWorks?node-id=0-1&t=qBYz3hjmOnOnnStp-1",
             github: "#"
         }
     }

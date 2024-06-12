@@ -24,8 +24,8 @@ const Hero = () => {
            </p>
            {/* <h2 className='text-gray-300'>Dengan Pengalaman 5 Tahun</h2>  */}
            <div className='flex flex-row gap-4 mb-4 md:mb-0'>
-                <button className='transform transition-transform hover:scale-105 hover:shadow-lg z-10 cursor-pointer font-bold text-gray-200 w-1/2 mt-6 p-2 bg-gradient-to-r from-[#05445E] via-[#189AB4] to-[#75E6DA] rounded-xl'>Lihat CV Saya</button>
-                <button className='transform transition-transform hover:scale-105 hover:shadow-lg z-10 cursor-pointer font-bold text-gray-200 w-1/2 mt-6 p-2 border border-gray-400 rounded-xl'>Lihat Pekerjaan Saya</button>
+                <a href="https://www.cakeresume.com/muhammad-fajar-baihaqi" className='transform transition-transform hover:scale-105 hover:shadow-lg z-10 cursor-pointer font-bold text-gray-200 w-1/2 mt-6 p-2 bg-gradient-to-r from-[#05445E] via-[#189AB4] to-[#75E6DA] rounded-xl text-center'>Lihat CV Saya</a>
+                <a href="#" className='transform transition-transform hover:scale-105 hover:shadow-lg z-10 cursor-pointer font-bold text-gray-200 w-1/2 mt-6 p-2 border border-gray-400 rounded-xl text-center'>Lihat Pekerjaan Saya</a>
            </div>
         </div>
         
