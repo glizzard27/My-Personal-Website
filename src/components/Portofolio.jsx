@@ -13,7 +13,7 @@ const projects = [
         title: "Project #1",
         description: "Website Kopi Kenangan Sejiwa",
         links: {
-            site: "#",
+            site: "https://fajar-baihaqi-dev-kopi-kenangan-sejiwa.vercel.app/",
             github: "https://github.com/glizzard27/kedai-kopi-kenangan-sejiwa.git"
         }
     },
